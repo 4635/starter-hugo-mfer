@@ -122,20 +122,20 @@ sections:
           title: 
           url: ''
         - certificate_url: https://www.linkedin.com/learning/certificates/9a73a4fdb24f569581714450c68b3d8d0b64ce830473788d3c3b2e9a576423be?u=2163426
-          date_end: '2021-09-27'
-          date_start: ''
+          date_end: ''
+          date_start: '2021-09-27'
           description: ''
           organization: LinkedIn Learning Certificate of Completion
           organization_url: https://www.linkedin.com/learning/?u=2163426
           title: Lean Six Sigma Analyze Improve and Control Tools
           url: ''
         - certificate_url: http://www.links-simulations.com/
-          date_end: '2014-12-21'
-          date_start: ''
+          date_end: ''
+          date_start: '2014-12-21'
           description: ''
           organization: Andromeda Simulations International
           organization_url: https://www.bauer.uh.edu/
-          title: 'Champion of LINKS Supply Chain Management Simulation Competition'
+          title: Champion of LINKS Supply Chain Management Simulation Competition
           url: ''
     design:
       columns: '2'
