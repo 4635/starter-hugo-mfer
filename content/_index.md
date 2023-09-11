@@ -93,8 +93,6 @@ sections:
               *	Led and managed a $20 million routing platform RFQ, frontend and backend implementation, UAT, testing, site go-live, and scaling for all US 68 super distribution centers, supporting 70,000 drivers. This role reported to senior directors and supported VP decisions. 
               * The management team would like to understand the ROI of the return of the new routing system. I Built profit and loss models to evaluate project ROI and evaluation in a 5-year projection. The profit and loss history data comes from Sysco accounting system SAAS, which stored 50 years of financial data. The IRR was defined based on food industry standards and Sysco history data on similar projects. 
               * Sysco started to implement RFID to increase delivery effectiveness. The old Zebra device was not flexible regarding speed and flexible angle scanning. I worked with IT and the warehouse leader to source and purchase 20,000 handhelds to upgrade the current barcode system to RFID scanning. The IRR was evaluated based on market and Sysco history data. The model simulated three scenarios to calculate the breakeven timeline. This upgrade increased ROI by 28%; the expected breakeven point is three years. 
-
-
         - title: Supply Chain Manager
           company: Knoa Distribution
           company_url: 'https://knoasflooring.com/'
@@ -110,11 +108,10 @@ sections:
               *	Refined developing annual inventory evaluation reports with 40% timesaving. 
               *	Designed strategic sourcing to obtain cost-effective deals and increased the ROI by 20%.
               *	Built Tableau dashboards for tracking operation KPIs and lowering the holding cost by 15%.
-
         - title: Strategic Sourcing Specialist
           company: Schlumberger
           company_url: 'https://www.slb.com/'
-          company_logo: SLB-Logo_2022
+          company_logo: SLB_Logo_2022
           location: Houston, TX
           date_start: '2014-06-01'
           date_end: '2017-05-01'
