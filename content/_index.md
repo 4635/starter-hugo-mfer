@@ -120,6 +120,7 @@ sections:
           organization: edX
           organization_url: https://www.edx.org
           title: Lean Six Sigma: Analyze, Improve and Control Tools
+          url: ''
         - certificate_url: http://www.links-simulations.com/
           date_end: '2014-12-21'
           date_start: ''
