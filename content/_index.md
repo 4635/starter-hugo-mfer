@@ -102,7 +102,7 @@ sections:
           location: Houston, TX
           date_start: '2017-05-01'
           date_end: '2018-02-01'
-          description: 
+          description: |2-
               *	Monitored and implemented an inventory tracking system using VBA to track real-time inventory.
               *	Designed strategic sourcing to reduce costs, increasing the revenue-to-expenses ratio by 20%.
               *	Created and maintained standardized documentation and SOPs for demand forecasting and planning processes on a $ 10,000 daily inventory basis.
