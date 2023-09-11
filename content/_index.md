@@ -105,29 +105,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://eportfolio.mygreatlearning.com/wenjun-chen
+          date_end: '2022-03-01'
+          date_start: '2023-02-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: The University of Texas at Austin
+          organization_url: https://www.mccombs.utexas.edu/
+          title: Post Graduate Program in Data Science and Business Analytics
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '2023-08-01'
+          description: Data Science and Agile Systems Engineering
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          title: Lean Six Sigma: Analyze, Improve and Control Tools
+          url: https://www.linkedin.com/learning/certificates/9a73a4fdb24f569581714450c68b3d8d0b64ce830473788d3c3b2e9a576423be?u=2163426
+        - certificate_url: http://www.links-simulations.com/
+          date_end: '2014-12-21'
+          date_start: ''
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Andromeda Simulations International
+          organization_url: https://www.bauer.uh.edu/
+          title: 'Champion of LINKS Supply Chain Management Simulation Competition'
           url: ''
     design:
       columns: '2'
