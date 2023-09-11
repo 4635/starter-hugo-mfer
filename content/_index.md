@@ -92,17 +92,42 @@ sections:
               Strategic Sourcing and ROI analysis 
               *	Led and managed a $20 million routing platform RFQ, frontend and backend implementation, UAT, testing, site go-live, and scaling for all US 68 super distribution centers, supporting 70,000 drivers. This role reported to senior directors and supported VP decisions. 
               * The management team would like to understand the ROI of the return of the new routing system. I Built profit and loss models to evaluate project ROI and evaluation in a 5-year projection. The profit and loss history data comes from Sysco accounting system SAAS, which stored 50 years of financial data. The IRR was defined based on food industry standards and Sysco history data on similar projects. 
-              * Sysco started to implement RFID to increase delivery effectiveness. The old Zebra device was not flexible regarding speed and flexible angle scanning. I worked with IT and the warehouse leader to source and purchase 20,000 handhelds to upgrade the current barcode system to RFID scanning. This upgrade increased ROI by 28%; the expected breakeven point is three years. 
+              * Sysco started to implement RFID to increase delivery effectiveness. The old Zebra device was not flexible regarding speed and flexible angle scanning. I worked with IT and the warehouse leader to source and purchase 20,000 handhelds to upgrade the current barcode system to RFID scanning. The IRR was evaluated based on market and Sysco history data. The model simulated three scenarios to calculate the breakeven timeline. This upgrade increased ROI by 28%; the expected breakeven point is three years. 
 
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Supply Chain Manager
+          company: Knoa Distribution
+          company_url: 'https://knoasflooring.com/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Houston, TX
+          date_start: '2017-05-01'
+          date_end: '2018-02-01'
+          description: 
+              *	Monitored and implemented an inventory tracking system using VBA to track real-time inventory.
+              *	Designed strategic sourcing to reduce costs, increasing the revenue-to-expenses ratio by 20%.
+              *	Created and maintained standardized documentation and SOPs for demand forecasting and planning processes on a $ 10,000 daily inventory basis.
+              *	Optimized inventory control procedure and reduced inventory loss by $20,000 monthly.
+              *	Refined developing annual inventory evaluation reports with 40% timesaving. 
+              *	Designed strategic sourcing to obtain cost-effective deals and increased the ROI by 20%.
+              *	Built Tableau dashboards for tracking operation KPIs and lowering the holding cost by 15%.
+
+        - title: Strategic Sourcing Specialist
+          company: Schlumberger
+          company_url: 'https://www.slb.com/'
+          company_logo: SLB-Logo_2022
+          location: Houston, TX
+          date_start: '2014-06-01'
+          date_end: '2017-05-01'
+          description: |2-
+              This position supports Sysco supply chain in all US board line distribution centers.
+              Responsibilities include:
+              
+              * Managed an annual volume of $2 million in direct-hire strategic sourcing around the globe, including product life cycle and cross-functional coordination.
+              *	Monitored and evaluated the compliance of 20,000 temporary contractors.
+              *	Implemented a global VMI vendor management inventory system for external suppliers.
+              *	Drafted contract clauses for procurement as per RFQ, including tax, insurance, and compliance.
+              *	Implemented a strategic sourcing vendor management inventory VMI system, narrowing the vendor list from over 3,000 to 100 across 80 countries. Saved over $1 million headcount spent quarterly.
+              *	Monitored and evaluated the compliance of 20,000 temporary contractors across 80 countries.          
     design:
       columns: '2'
   - block: accomplishments
