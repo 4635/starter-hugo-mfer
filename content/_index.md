@@ -69,19 +69,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Data Analyst
+          company: Sysco
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: Sysco-Logo
+          location: Houston, Tx
+          date_start: '2021-11-01'
           date_end: ''
           description: |2-
+              This position supports Sysco supply chain in all US board line distribution centers.
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              Analysing Modelling and Deploying:
+              * Extract, transform, and load (ETL) transportation data using Redshift Amazon S3.
+              *	Built a perishable food transportation Tableau dashboard to track transportation KPIs and reduce delivery time and payment by 15% in metropolitan areas, resulting in a $2 million miscellaneous pay reduction every six months.
+              *	Redesigned hours of service calculation employing Python to decrease load times by 98%.
+              *	Loaded 2G daily operation data in data warehouses to Redshift using Postgres SQL, Python, and PowerShell. 
+              *	Designed and modeled the in-house payroll system from scratch and worked with the offshore dev team in Agile. My role owned payroll data auditing and syncing with the S3 data warehouse. 
+              *	Digest labor planning payroll data from ADP and heritage system for over 70,000 drivers, identified patterns, relationships, and trends across multiple data sources. 
+              *	Designed and coordinated with the robot team to implement mini pallets on testing and scaling to West Coast distribution centers. 
+              
+              ROI analysis Strategic Sourcing and 
+              *	Led and managed a $20 million routing platform RFQ, frontend and backend implementation, UAT, testing, site go-live, and scaling for all US 68 super distribution centers, supporting 70,000 drivers. This role reported to senior directors and supported VP decisions. 
+              •	The management team would like to understand the ROI of the return of the new routing system. I Built profit and loss models to evaluate project ROI and evaluation in a 5-year projection. The profit and loss history data comes from Sysco accounting system SAAS, which stored 50 years of financial data. The IRR was defined based on food industry standards and Sysco history data on similar projects. 
+              •	Sysco started to implement RFID to increase delivery effectiveness. The old Zebra device was not flexible regarding speed and flexible angle scanning. I worked with IT and the warehouse leader to source and purchase 20,000 handhelds to upgrade the current barcode system to RFID scanning. This upgrade increased ROI by 28%; the expected breakeven point is three years. 
+
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
