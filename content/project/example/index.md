@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/aguahush
+    url: https://twitter.com/ina1000times
 url_code: ''
 url_pdf: ''
 url_slides: ''
