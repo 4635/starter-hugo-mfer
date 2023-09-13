@@ -1,5 +1,5 @@
 ---
-title: Permian Basin 
+title: Permian Basin Vented Gas Reduction Project
 summary: Minimize flared gas in the Permian Basin
 tags:
   - Optimization
